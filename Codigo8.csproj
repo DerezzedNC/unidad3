@@ -1,0 +1,22 @@
+﻿Cálculo del Producto Más Caro en un Inventario
+
+Una empresa almacena productos en un archivo de texto ("productos.json") con el siguiente formato:
+
+Producto, Precio, cantidad
+
+Laptop, 15000, 10
+
+Celular, 9000, 12
+
+Tablet, 5000, 3
+
+Instrucciones:
+
+Escribe un programa en C# que:
+
+1. Solicita al usuario ingresar el nombre del producto, cantidad vendida y precio unitario. 
+2. Luego, lee el archivo y muestra el total de ventas realizadas.
+3.  Lea el archivo y encuentre el producto más caro.
+Muestra en pantalla el nombre del producto y su precio.
+
+Asegúrate de manejar posibles errores en la lectura del archivo.
